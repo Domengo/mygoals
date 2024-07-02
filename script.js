@@ -8,4 +8,4 @@ function displayTimeAndDate() {
 }
 
 displayTimeAndDate();
-setInterval(updateTimeAndDate, 1000);
+setInterval(displayTimeAndDate, 1000);
