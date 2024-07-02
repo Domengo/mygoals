@@ -91,6 +91,18 @@ main {
         padding: 1em 0;
     }
 
+    #links ul {
+        text-align: center;
+    }
+
+    #links {
+        margin-top: 1em;
+    }
+
+    #profile {
+        text-align: center;
+    }
+
     main {
         padding: 1em;
     }
@@ -101,12 +113,12 @@ main {
     body {
         font-size: 0.8em;
     }
+    
 
     #profile img {
         width: 100px;
         height: 100px;
     }
-
     #links ul li {
         margin: 0.3em 0;
     }
